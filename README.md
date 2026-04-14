@@ -38,7 +38,7 @@ Microsoft Excel / CSV – Data source
 Data Cleaning & Transformation – Power Query
 📷 Dashboard Preview
 This dashboard provides insights into sales, profit, customer behavior, and regional performance.
-![E-Commerce Sales Dashboard](E-commerce%20Sales%20Performance.PNG)
+![E-Commerce Sales Dashboard](E-commerce%20Sales%20Performance%20Dashboard.PNG)
 📂 Project Structure
 📁 E-Commerce-Sales-Dashboard
 │-- 📁 Dataset
