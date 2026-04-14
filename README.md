@@ -37,13 +37,17 @@ Power BI – Data visualization and dashboard creation
 Microsoft Excel / CSV – Data source
 Data Cleaning & Transformation – Power Query
 📷 Dashboard Preview
-
+This dashboard provides insights into sales, profit, customer behavior, and regional performance.
+![E-Commerce Sales Dashboard](E-commerce%20Sales%20Performance.PNG)
 📂 Project Structure
 📁 E-Commerce-Sales-Dashboard
-│-- 📄 README.md
-│-- 📊 E-commerce Sales Dashboard.pbix
 │-- 📁 Dataset
-│-- 🖼️ Dashboard Screenshot.png
+│   │-- Orders.csv
+│   │-- Details.csv
+│
+│-- 📊 E-commerce Sales Performance.pbit
+│-- 🖼️ E-commerce Sales Performance.png
+│-- 📄 README.md
 📊 Key Insights
 Clothing category contributes the highest sales share.
 COD is the most preferred payment method.
@@ -64,6 +68,13 @@ Business storytelling through data
 Add real-time data integration
 Include predictive analytics
 Enhance filters and drill-through capabilities
+📌 Conclusion
+The Clothing category contributes the highest share of total sales.
+Cash on Delivery (COD) is the most preferred payment method among customers.
+Certain months (like July and December) show low or negative profit, indicating possible seasonal challenges.
+A few sub-categories such as Printers and Bookcases generate the majority of profit.
+Sales are concentrated in specific states like Maharashtra, showing regional dominance.
+
+👉 Overall, the dashboard highlights key areas where the business can optimize sales strategies and improve profitability.
 
 
-Give it a ⭐ on GitHub and share your feedback!
